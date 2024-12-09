@@ -32,7 +32,3 @@ class Menu:
     def run(self):
         pass
 
-
-if name == "__main__":
-    menu = Menu()
-    menu.run()
